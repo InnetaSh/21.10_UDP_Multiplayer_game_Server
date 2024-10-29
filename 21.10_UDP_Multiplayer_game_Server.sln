@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.10_UDP_Multiplayer_game_Server", "21.10_UDP_Multiplayer_game_Server.csproj", "{35339F2D-699B-4EF9-B16D-A8C9B29F1EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35339F2D-699B-4EF9-B16D-A8C9B29F1EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35339F2D-699B-4EF9-B16D-A8C9B29F1EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35339F2D-699B-4EF9-B16D-A8C9B29F1EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35339F2D-699B-4EF9-B16D-A8C9B29F1EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D6338A-3573-4E09-8DE4-EABFCF2C2605}
+	EndGlobalSection
+EndGlobal
